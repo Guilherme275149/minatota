@@ -34,9 +34,9 @@ INSTALAÇÃO:
 
 > pkg install npm 
 
-> git clone sua git
+> git clone https://github.com/Guilherme275149/minatota
 
-> cd nome do seu repositorio
+> cd minatota
 
 > bash install.sh
 
