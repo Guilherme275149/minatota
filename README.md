@@ -23,13 +23,22 @@ INSTALAÇÃO:
 > Se você não tiver o APK Termux, baixe-o na Playstore
 > entre no apk termux e digite abaixo!
  termux-setup-storage 
+
  > pkg install git
+
  > pkg install ffmpeg 
+
 > pkg install wget 
+
 > pkg install nodejs 
+
 > pkg install npm 
+
 > git clone sua git
+
 > cd nome do seu repositorio
+
 > bash install.sh
+
 > Basta escanear o código qr e ... pronto
 ```
